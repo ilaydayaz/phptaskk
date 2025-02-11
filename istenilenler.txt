@@ -1,0 +1,23 @@
+bir kayıt formu sayfası
+
+bir de kayıt formlarını görüntüleyecek admin sayfası 
+
+kayıt formu sayfası içinde,
+
+-ad
+-soyad
+-doğum tarihi
+-eposta
+-telefon numarası
+-adres
+
+ana sayfada aşağıya doğru listelenicek.
+
+admin panelinde bu kayıtlr sırayla görüntülenecek.
+
+her kayıtların sağ tarafında düzenle ve sil butonu olucak.
+
+bir kaydı silmek istediğimizde alert ve ya popup uyarısıyla gerçekten silmek isteyip istmediğimiz sorulacak.
+
+bir kaydı düzenlemek istediğimizde kullancın verileri dolu gelecek ve mysql uptade ile bunu güncellicez.
+
